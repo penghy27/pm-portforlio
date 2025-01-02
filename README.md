@@ -10,7 +10,7 @@ Experienced professional with a strong background in non-clinical research and p
 
 
 **Associate Project Manager – Protech Pharmaservices Corporation (acquired by [Novotech](https://novotech-cro.com/contact?utm_source=Google&utm_medium=Search&utm_campaign=SN_Brand_US&utm_id=20968953014&gad_source=1&gbraid=0AAAAAqxLUiW7xn1gsbUdccQZmyOjiZxeG&gclid=Cj0KCQiA7NO7BhDsARIsADg_hIYkttxnKKJZKhrSbBtmLxXCRZLi9x85UNpQXpFXVB_tE2TrpSZlsKcaAipFEALw_wcB)), Taipei, Taiwan (_Jan 2019 – Dec 2019_)**
-- **Managed 10+  clinical trials for central lab services**, coordinating cross-functional teams (clinical, lab, biostatistics, and regulatory affairs) to achieve project deliverables within established timeframes.
+- **Managed 10+  clinical trials regarding central lab services**, coordinating cross-functional teams (clinical, lab, biostatistics, and regulatory affairs) to achieve project deliverables within established timeframes.
 - Fostered collaborative relationships as the primary liaison for 8 sponsors, 6 CROs, and 3 vendors, **managing outsourced assays**, resolving logistical challenges, and providing project updates. Built trust to secure payments, increase revenue, and ensure seamless study setup and execution.
 - **Trained clinical site personnel** on biospecimen workflows and lab processes, including sample handling, documentation, and shipping protocols, reducing study-related queries to under 5%.
 - **Streamlined biospecimen operations** by overseeing import/export permit applications and creating 3+ work instructions for study setup, data documentation, and specimen transportation, improving accuracy and reducing run time by 20-30%.

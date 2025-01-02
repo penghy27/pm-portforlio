@@ -1,5 +1,6 @@
 # Project Manager
 
+Experienced professional with a strong background in non-clinical research and project management within biotech and pharma. Extensive expertise in coordinating cross-functional teams, streamlining workflows, and implementing data management systems. Proficient in Python, R, and SQL, with a proven ability to combine technical and managerial skills to drive innovation and deliver impactful results in biomedical research and drug development.
 
 ## Professional Experience 
 **Project Manager Intern – [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/), Ridgefield, CT (_May 2024 – Aug 2024_)**
@@ -35,8 +36,8 @@
 
 ## Education
 - M.S., Bioinformatics | Northeastern University, Boston, MA (_Aug 2024_) 
-- M.S., Anatomy and Cell Biology, National Taiwan University, Taipei, Taiwan (_2005_)
-- B.S., Zoology, National Chung Hsing University, Taichung, Taiwan (_2002_)
+- M.S., Anatomy and Cell Biology | National Taiwan University, Taipei, Taiwan (_2005_)
+- B.S., Zoology | National Chung Hsing University, Taichung, Taiwan (_2002_)
 
 ## Certification
 - [Google Project Management](https://coursera.org/share/1dd7b01d7e3c647f48857737a44774aa) (Coursera)

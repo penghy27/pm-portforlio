@@ -39,7 +39,7 @@
 - B.S., Zoology, National Chung Hsing University, Taichung, Taiwan (_2002_)
 
 ## Certification
-- Google Project Management (Coursera)
+- [Google Project Management](https://coursera.org/share/1dd7b01d7e3c647f48857737a44774aa) (Coursera)
 
 ## Skills
 - **Technical Skills**: Python, R, SQL, Bash/Shel, Unix/Linux, High-performance computing (Slurm cluster), Git/GitHub, Jira  

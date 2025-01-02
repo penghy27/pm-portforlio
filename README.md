@@ -18,7 +18,7 @@ Experienced professional with a strong background in non-clinical research and p
 
 **Associate Project Manager – [Calgent Biotechnology](https://www.calgent.com/), Taipei, Taiwan (_June 2018 – Dec 2018_)**
 - **Managed collaborations with CROs** and CMOs, ensuring **GLP non-clinical study compliance** and GMP production for clinical trial readiness, contributing to the regulatory pathway for multiple myeloma treatment.
-- Compiled regulatory documents, including the Investigator's Brochure, securing orphan drug designation for a novel therapeutic.
+- Compiled regulatory documents, including the **Investigator's Brochure**, securing orphan drug designation for a novel therapeutic.
 
 **Associate Scientist – [Lumosa Therapeutics](https://www.lumosa.com.tw/), Taipei, Taiwan (_June 2014 – Aug 2016_)**
 - **Led non-GLP preclinical animal studies (PK, PD, toxicity)** to evaluate new drug candidates, optimizing experimental workflows, and delivering data-driven recommendations for drug development strategies.

@@ -14,7 +14,7 @@ Experienced professional with a strong background in non-clinical research and p
 - Fostered collaborative relationships as the primary liaison for 8 sponsors, 6 CROs, and 3 vendors, **managing outsourced assays**, resolving logistical challenges, and providing project updates. Built trust to secure payments, increase revenue, and ensure seamless study setup and execution.
 - **Trained clinical site personnel** on biospecimen workflows and lab processes, including sample handling, documentation, and shipping protocols, reducing study-related queries to under 5%.
 - **Streamlined biospecimen operations** by overseeing import/export permit applications and creating 3+ work instructions for study setup, data documentation, and specimen transportation, improving accuracy and reducing run time by 20-30%.
-- **Supervised IT team’s LIMS implementation** (Laboratory Information Management System), defining data specification, and resolving issues to automate data transformation and report, enabling timely patient report reviews by clinical investigators.
+- **Supervised in-house LIMS implementation** (Laboratory Information Management System), defining data specification, and resolving issues to automate data transformation and report, enabling timely patient report reviews by clinical investigators.
 
 **Associate Project Manager – [Calgent Biotechnology](https://www.calgent.com/), Taipei, Taiwan (_June 2018 – Dec 2018_)**
 - **Managed collaborations with CROs** and CMOs, ensuring **GLP non-clinical study compliance** and GMP production for clinical trial readiness, contributing to the regulatory pathway for multiple myeloma treatment.

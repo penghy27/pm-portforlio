@@ -36,8 +36,8 @@ Experienced professional with a strong background in non-clinical research and p
 
 ## Education
 - M.S., Bioinformatics, Northeastern University, Boston, MA (_Aug 2024_) 
-- M.S., Anatomy and Cell Biology, National Taiwan University, Taipei, Taiwan (_2005_)
-- B.S., Zoology, National Chung Hsing University, Taichung, Taiwan (_2002_)
+- M.S., Anatomy and Cell Biology, National Taiwan University, Taipei, Taiwan 
+- B.S., Zoology, National Chung Hsing University, Taichung, Taiwan 
 
 ## Certification
 - [Google Project Management](https://coursera.org/share/1dd7b01d7e3c647f48857737a44774aa) (Coursera)

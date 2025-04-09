@@ -7,6 +7,8 @@ Experienced professional with a strong background in non-clinical research and p
 - **Coordinated cross-functional collaboration** among scientists, IT specialists, and vendors (e.g., Genedata, Certara) to streamline R&D data workflow, accelerate decision-making, and align project delivery with strategic goals.
 - **Implemented lab management software** in collaboration with IT staff and engineers, optimizing account setups, data alignment, instrument integration, and automated reporting, reducing manual time, effort and errors by 90%.
 - **Delivered 4 training sessions** to 80+ users across US and European teams, presenting materials and updates to drive digital tool adoption, enhance collaboration, and facilitate departmental digital transformation.
+- **Implemented Jira Kanban for task tracking** across the US and Europe teams, improving task visibility and completion rates by 80%
+
 
 
 **Associate Project Manager – Protech Pharmaservices Corporation (acquired by [Novotech](https://novotech-cro.com/contact?utm_source=Google&utm_medium=Search&utm_campaign=SN_Brand_US&utm_id=20968953014&gad_source=1&gbraid=0AAAAAqxLUiW7xn1gsbUdccQZmyOjiZxeG&gclid=Cj0KCQiA7NO7BhDsARIsADg_hIYkttxnKKJZKhrSbBtmLxXCRZLi9x85UNpQXpFXVB_tE2TrpSZlsKcaAipFEALw_wcB)), Taipei, Taiwan (_Jan 2019 – Dec 2019_)**

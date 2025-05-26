@@ -40,7 +40,7 @@ Results-driven Project Manager with cross-continental experience leading pharmac
 
 
 ## Research Experience 
-**Data Analysis Intern – [Harvard Medical School](https://hms.harvard.edu), Boston, MA    	    				      (_June 2023 – Aug 2023_)**
+**Data Analysis Intern – [Harvard Medical School](https://hms.harvard.edu), Boston, MA    	    				      (_June 2023 – Dec 2023_)**
 - Conducted genomic analysis on lung adenocarcinoma cohorts, identifying unique mutational signatures and potential biomarkers among Taiwanese population using Python and R.
 - Performed data cleaning, processing, and exploratory analysis to support the discovery of key genomic patterns relatted to LUAD. 
 

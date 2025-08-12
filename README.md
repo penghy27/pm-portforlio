@@ -16,7 +16,7 @@ Results-driven Project Manager with cross-continental experience leading pharmac
 -	**Technical Tools**: Python, R, SQL, Bash/Shel, Unix/Linux, High-performance computing (Slurm cluster), Git/GitHub
 - **Communication**: Stakeholder Engagement, Global Team Coordination, Training Delivery
 
-## Project Management Experience 
+## Experience 
 **Digital Transformation Intern (Project Manager) – [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/), Ridgefield, CT (_May 2024 – Aug 2024_)**  
 - **Coordinated cross-functional collaboration** among scientists, IT specialists, and vendors (e.g., Genedata, Certara) to streamline R&D data workflow, accelerate decision-making, and align project delivery with strategic goals.
 - **Implemented lab management software** in collaboration with IT staff and engineers, optimizing account setups, data alignment, instrument integration, and automated reporting, reducing manual time, effort and errors by 90%.

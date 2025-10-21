@@ -2,7 +2,4 @@ title: Hsiao-Yu Peng
 logo: /assets/img/headshot.png
 description: Project Manager, combining biomedical research expertise with programming skills
 #show_downloads: true
-remote_theme: poole/hyde
-plugins:
-  - jekyll-remote-theme
-theme_color: theme-base-0d
+theme: jekyll-theme-minimal

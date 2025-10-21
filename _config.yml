@@ -5,3 +5,4 @@ description: Project Manager, combining biomedical research expertise with progr
 remote_theme: poole/hyde
 plugins:
   - jekyll-remote-theme
+theme_color: theme-base-0d
